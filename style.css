@@ -1,0 +1,106 @@
+body{
+    background-color: #181D31;
+    text-align: center;
+}
+
+.profile {width: 200px;
+    position: absolute;
+    top: 60px;
+    left: 80px ;
+    width: 200px;
+}
+h2{color: antiquewhite;
+    position: absolute;
+    top:260px;
+    left: 155px;
+    font-size: 30px;
+    font-family: 'Sacramento', cursive;
+}
+
+h3{color: antiquewhite;
+    position: absolute;
+    top:380px;
+    left: 98px;
+    font-size: 19px;
+    font-family: 'Sacramento', cursive;
+}
+
+h1{color: antiquewhite;
+    position: absolute;
+    top:330px;
+    left: 38px;
+    font-size: 30px;
+    font-family: 'Sacramento', cursive;
+}
+.insta{position: absolute;
+    top: 470px;
+    width: 40px;
+    left: 30px;
+
+}
+
+.twit{position: absolute;
+    width: 40px;
+    left: 90px;
+    top:470px ;
+
+}
+
+.linkedin{
+    position: absolute;
+    width: 40px;
+    left: 150px;
+    top: 470px;
+
+}
+
+.git{
+    position: absolute;
+    width: 40px;
+    left: 210px;
+    top: 470px;
+
+
+}
+
+.gmail{
+    position: absolute;
+    width: 40px;
+    top: 470px;
+    left: 270px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+.btn{
+
+font-family: Nunito;
+font-weight: 0;
+font-size: 18px;
+color: #fff;
+background-color: #610094;
+padding: 10px 30px;
+border: none;
+box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+border-radius: 50px;
+transition : 1304ms;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+text-transform: lowercase;
+position: absolute;
+top: 87%;
+left: 30%;
+}
+
+.btn:hover{
+
+transition : 1304ms;
+padding: 10px 34px;
+transform : translateY(-0px);
+background-color: #fff;
+color: #0066cc;
+border: solid 2px #0066cc;
+}
