@@ -1,0 +1,109 @@
+body{background-color: #181D31;
+    text-align: center;
+
+}
+.p{width: 60px;
+    position: absolute;
+    top: 14%;
+    left: 15%;
+
+
+}
+.h{width: 60px;
+    position: absolute;
+    left: 35%;
+    top: 14%;
+}
+.c{width: 60px;position: absolute;
+    left: 55%;
+    top: 14%;
+
+}
+.j{width: 60px;position: absolute;
+    left: 75%;
+    top: 14%;
+}
+.skills{color: antiquewhite;
+    position: absolute;
+    top: 30px;
+    left: 40%;
+
+}
+.education{color: antiquewhite;
+    position: absolute;
+    top: 150px;
+    left: 30%;
+
+    
+}
+.exp{color: antiquewhite;
+    position: absolute;
+    top: 400px;
+    left: 30%;
+}
+.rec{position: absolute;
+    top: 220px;
+    left: 5%;
+
+
+}
+.p1{color: #D4ECDD;
+    position: absolute;
+    left: 10%;
+    top: 203px;
+}
+.re1{position: absolute;
+    left: 5%;
+    top: 290px;
+
+
+}
+
+.re2{position: absolute;
+    left: 5%;
+    top: 360px;
+
+
+}
+.p2{color: #D4ECDD;
+    position: absolute;
+    left: 10%;
+    top: 273px;
+}
+
+
+.p3{color: #D4ECDD;
+    position: absolute;
+    left: 10%;
+    top: 343px;
+}
+
+.gdg{width: 50px;
+    position: absolute;
+    left: 05%;
+    top: 490px;
+
+
+}
+.p6{color: #D4ECDD;
+    position: absolute;
+    left: 20%;
+    top: 470px;
+}
+.cncf{width: 50px;
+    position: absolute;
+    top: 590px;
+    left: 05%;
+
+}
+.p7{ color: #D4ECDD;
+    position: absolute;
+    left: 25%;
+    top: 586px;
+
+
+}
+.p5{color: #D4ECDD;
+    position: absolute;
+    left: 20%;
+    top: 986px;}
